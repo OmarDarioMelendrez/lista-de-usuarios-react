@@ -1,4 +1,4 @@
-# Descripción de proyecto
+# Descripción del proyecto
 
 En esta práctica realicé una aplicación simple para prácticar el uso de:
 * Bootstrap
